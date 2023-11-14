@@ -53,21 +53,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 The following animation demonstrates the application functionality:
 ![A user clicks on slots on the color-coded calendar and edits the events.](/public/assets/images/Express-JS-Note-Taker.GIF)
-
-## Usage Instructions
-1. Click here to open the [Deployed Application Link:](https://e-js-note.herokuapp.com/)
-2. Click "Get Started" to open the note taker.
-3. Enter text into the 'title' and 'text' fields 
-4. Click the save icon (top right) to save the note.
-5. Click the + icon (top right) to add another note.
-6. Additional: Click the trash icon to delete saved notes.
-
-## Deployed Application Link:
-[Deployed Application Link:](https://e-js-note.herokuapp.com/)
-
-## YouTube Walkthrough Video:
-[Click Here to Watch](https://www.youtube.com/watch?v=-UiqzvUe360&t=22s)
-
 ## Screenshots:
 ### Figure 1. Screenshot
 ![](/public/assets/images/Screenshot.png) 
@@ -100,32 +85,3 @@ The following animation demonstrates the application functionality:
 ## License & Copyright ©
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
-
-### Copyright © 2023 Thomas Calle
-```md
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-## Author
-
-Follow me on Github at [ThomasCalle](https://github.com/ThomasCalle)! Additional questions or concerns? feel free to contact me at thomas.calle@outlook.com.
-
-Until next, adios!
-
-© 2023 [ThomasCalle](https://github.com/ThomasCalle). Confidential and Proprietary. All Rights Reserved.
